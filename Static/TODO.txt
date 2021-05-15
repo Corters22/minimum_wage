@@ -1,0 +1,38 @@
+explore data
+    -minimum wage
+    -unemployment
+    -gdp
+    -state demo over the years
+    -working demo  
+        race, gender, job choices, avg job salaries
+define charts
+define interactivity
+design page
+
+
+
+Chart options - 
+    1. moving bubble chart over the years
+        https://observablehq.com/@mbostock/the-wealth-health-of-nations
+
+    2. tranistion group to stacked bar chart
+        https://observablehq.com/@d3/stacked-to-grouped-bars
+    
+    3. hierarchial bar chart
+        https://observablehq.com/@d3/hierarchical-bar-chart
+        **go from national to state to demographics maybe**
+    4. collapsible tree
+        https://observablehq.com/@d3/collapsible-tree
+        https://observablehq.com/@d3/tidy-tree ----------------could use to display different parts of coding language like plotly
+
+        **make even to transition to new chart after making selections
+
+    5. sunburst
+        https://observablehq.com/@d3/zoomable-sunburst
+
+        ** use to show demographics for each year**
+    6. sortable bar chart
+        https://observablehq.com/@d3/sortable-bar-chart
+    7. multiline chart
+        https://observablehq.com/@d3/multi-line-chart
+    

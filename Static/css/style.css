@@ -1,0 +1,17 @@
+.header-bar {
+    background-color: aquamarine;
+    text-align: center;
+    text-shadow: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:large;
+    color: grey;
+    text-anchor: middle;
+}
+/* .container {
+    background-color: aquamarine;
+    height: 150px;
+} */
+
+h1 {
+    text-anchor: middle;
+}
